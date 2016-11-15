@@ -1,0 +1,2 @@
+python kanpan.py
+pause
